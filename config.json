@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/story",
+        "prod_uri":"mysql://root:@localhost/story",
+        "fb_url":"https://facebook.com/",
+        "blog_name":"StoryStarDom",
+        "tag_line":"Story's Are Coming From Inside",
+        "gmail-user":"your@gmail.com",
+        "gmail-password":"123",
+        "about_txt": "Hi my name is Saifullah and I am a Programmer Also Doing Grphics Design And Also Story Writting",
+        "no_of_posts":2,
+        "login_img":"nature.jpg",
+        "admin_user":"saif",
+        "admin_password": "123",
+        "upload_location":"E:\\New folder (2)\\syt\\static\\img"
+    }
+}
