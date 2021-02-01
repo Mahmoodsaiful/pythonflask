@@ -3,7 +3,7 @@
     {
         "local_server":"True",
         "local_uri":"mysql://root:@localhost/story",
-        "prod_uri":"mysql://root:@localhost/story",
+        "prod_uri":"postgres://xkllohkylmvmsj:5c66edfba631a1ecab4312856ac1add5d7f3d8962b120fa016ea3bb70ec91eee@ec2-54-170-109-0.eu-west-1.compute.amazonaws.com:5432/dfkfqnnjo18q82",
         "fb_url":"https://facebook.com/",
         "blog_name":"StoryStarDom",
         "tag_line":"Story's Are Coming From Inside",
